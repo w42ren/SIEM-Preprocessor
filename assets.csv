@@ -1,0 +1,3 @@
+hostname,ip,env,owner,function,criticality
+web01,10.0.1.10,prod,Web Team,public_web,4
+db01,10.0.1.20,prod,DBA,customer_db,5
