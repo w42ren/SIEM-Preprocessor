@@ -159,7 +159,7 @@ for day_offset in range(days):
             lines.append(failed_password_line(ts, host, pid_counter, user, src, random.randint(30000,60000)))
 
 # shuffle and write
-random.shuffle(lines)
+# random.shuffle(lines)
 p = Path(OUT_PATH)
 with p.open("w", encoding="utf-8") as f:
     for ln in lines:
