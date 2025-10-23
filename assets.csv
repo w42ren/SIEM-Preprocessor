@@ -1,3 +1,11 @@
 hostname,ip,env,owner,function,criticality
-web01,10.0.1.10,prod,Web Team,public_web,4
+app01,10.0.1.30,prod,App Team,order_processing,4
+app02,10.0.2.31,dev,App Team,order_processing,3
+bastion01,10.0.1.100,prod,SecOps,bastion_host,5
+ci01,10.0.3.10,dev,Build Team,ci_cd_runner,2
 db01,10.0.1.20,prod,DBA,customer_db,5
+lb01,10.0.1.5,prod,NetOps,load_balancer,5
+ns01,10.0.1.2,prod,NetOps,dns_authoritative,4
+storage01,10.0.1.40,prod,Storage Team,object_store,4
+vpn01,10.0.1.254,prod,NetOps,vpn_gateway,3
+web01,10.0.1.10,prod,Web Team,public_web,4

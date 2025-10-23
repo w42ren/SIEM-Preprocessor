@@ -150,7 +150,7 @@ def write_jsonl(counts: Counter, assets: Dict[str, Dict], window_minutes: int, o
 
 def main():
     ap = argparse.ArgumentParser(description="Aggregate SSH failed logins and enrich with asset metadata.")
-    ap.add_argument("--input", "-i", nargs="+", default=["/var/log/auth.log"],
+    ap.add_argument("--input", "-i", nargs="+", default=["auth.log"],
                     help="Input log files (use '-' for stdin; .gz supported).")
     ap.add_argument("--assets", "-a", default=None,
                     help="Asset inventory CSV with headers: hostname,ip,env,owner,function,criticality")

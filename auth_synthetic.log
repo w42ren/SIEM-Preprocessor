@@ -1,0 +1,468 @@
+Sep  6 03:55:02 web01 sshd[14449]: Invalid user test from 51.15.23.223 port 48085
+Sep  4 05:29:31 bastion01 sshd[14058]: Failed password for pi from 185.199.108.187 port 40021 ssh2
+Sep  4 01:10:43 web01 sshd[14190]: error: maximum authentication attempts exceeded for root from 45.82.112.55 port 45141 ssh2 [preauth]
+Sep  4 03:15:12 storage01 sshd[14149]: Invalid user root from 45.82.112.187 port 43118
+Sep  4 01:55:19 ci01 sshd[14091]: Disconnecting authenticating user root 185.199.108.127 port 34978: Too many authentication failures [preauth]
+Sep  4 05:29:42 bastion01 sshd[14069]: Invalid user admin from 185.199.108.187 port 40021
+Sep  6 10:07:58 vpn01 sshd[14443]: error: maximum authentication attempts exceeded for root from 203.0.113.234 port 38310 ssh2 [preauth]
+Sep  6 00:47:34 bastion01 sshd[14402]: Failed password for root from 203.0.113.139 port 51303 ssh2
+Sep  4 14:37:17 app01 sshd[14009]: Failed password for root from 203.0.113.244 port 52876 ssh2
+Sep  6 17:47:59 app02 sshd[14378]: Invalid user admin from 45.82.112.219 port 45730
+Sep  4 16:58:16 db01 sshd[14101]: Connection closed by 185.199.108.196 port 37854 [preauth]
+Sep  6 23:55:37 app01 sshd[14342]: Failed password for pi from 185.199.108.115 port 37215 ssh2
+Sep  5 01:35:15 web01 sshd[14331]: Invalid user admin from 51.15.23.133 port 47222
+Sep  4 12:30:00 lb01 CRON[14103]: (root) CMD (/usr/local/bin/backup.sh)
+Sep  5 13:53:24 ci01 sshd[14235]: Failed password for ubuntu from 203.0.113.73 port 52784 ssh2
+Sep  6 17:47:58 app02 sshd[14377]: Failed password for test from 45.82.112.219 port 45730 ssh2
+Sep  4 20:21:07 ci01 sshd[14094]: Failed password for root from 192.0.2.112 port 44867 ssh2
+Sep  6 10:07:47 vpn01 sshd[14433]: Invalid user root from 203.0.113.234 port 38310
+Sep  6 22:02:00 app02 sshd[14361]: Invalid user admin from 45.82.112.232 port 51139
+Sep  4 05:29:26 bastion01 sshd[14053]: Invalid user guest from 185.199.108.187 port 40021
+Sep  4 23:29:53 app02 sshd[14032]: error: maximum authentication attempts exceeded for root from 185.199.108.68 port 33423 ssh2 [preauth]
+Sep  4 22:04:02 app02 sshd[14034]: Failed password for guest from 51.15.23.59 port 32614 ssh2
+Sep  6 12:30:00 app02 CRON[14356]: (root) CMD (/usr/local/bin/backup.sh)
+Sep  4 03:15:18 storage01 sshd[14155]: Invalid user ubuntu from 45.82.112.187 port 43118
+Sep  6 23:55:38 app01 sshd[14343]: Invalid user pi from 185.199.108.115 port 37215
+Sep  6 14:21:01 bastion01 sudo: pam_unix(sudo:session): session closed for user root
+Sep  6 04:45:13 app01 sshd[14355]: Failed password for pi from 203.0.113.156 port 40842 ssh2
+Sep  5 19:05:29 app02 sshd[14205]: Invalid user oracle from 185.199.108.153 port 33302
+Sep  5 04:41:50 web01 sshd[14327]: Invalid user root from 45.82.112.103 port 39994
+Sep  4 15:09:19 web01 sshd[14198]: error: maximum authentication attempts exceeded for root from 185.199.108.170 port 55540 ssh2 [preauth]
+Sep  4 23:29:36 app02 sshd[14016]: Invalid user oracle from 185.199.108.68 port 33423
+Sep  5 03:24:59 ns01 sshd[14288]: Invalid user guest from 45.82.112.156 port 48758
+Sep  4 05:16:33 lb01 sshd[14108]: Failed password for root from 185.199.108.109 port 47671 ssh2
+Sep  4 07:56:36 lb01 sshd[14104]: Invalid user root from 192.0.2.62 port 33898
+Sep  5 07:01:46 lb01 sshd[14265]: Invalid user admin from 192.0.2.79 port 39457
+Sep  4 03:42:39 storage01 sshd[14141]: Invalid user guest from 45.82.112.49 port 35090
+Sep  6 17:47:57 app02 sshd[14376]: Invalid user test from 45.82.112.219 port 45730
+Sep  4 05:29:28 bastion01 sshd[14055]: Invalid user ubuntu from 185.199.108.187 port 40021
+Sep  4 01:10:32 web01 sshd[14180]: Invalid user ubuntu from 45.82.112.55 port 45141
+Sep  4 05:29:40 bastion01 sshd[14067]: Invalid user pi from 185.199.108.187 port 40021
+Sep  4 05:29:45 bastion01 sshd[14072]: Failed password for pi from 185.199.108.187 port 40021 ssh2
+Sep  5 21:19:15 vpn01 sshd[14316]: Failed password for oracle from 203.0.113.242 port 39696 ssh2
+Sep  5 13:01:15 db01 sshd[14255]: Failed password for root from 198.51.100.250 port 37801 ssh2
+Sep  5 15:39:54 vpn01 sshd[14320]: Failed password for pi from 203.0.113.166 port 59036 ssh2
+Sep  5 13:53:35 ci01 sshd[14245]: Disconnecting authenticating user root 203.0.113.73 port 52784: Too many authentication failures [preauth]
+Sep  4 16:39:07 ns01 sshd[14115]: pam_unix(sshd:session): session closed for user alice
+Sep  5 11:56:08 bastion01 sshd[14216]: Failed password for oracle from 185.199.108.68 port 36340 ssh2
+Sep  4 05:23:38 bastion01 sshd[14050]: Disconnecting authenticating user root 51.15.23.214 port 43954: Too many authentication failures [preauth]
+Sep  4 05:29:44 bastion01 sshd[14071]: Invalid user pi from 185.199.108.187 port 40021
+Sep  6 10:07:51 vpn01 sshd[14437]: Invalid user guest from 203.0.113.234 port 38310
+Sep  5 13:53:21 ci01 sshd[14232]: Invalid user guest from 203.0.113.73 port 52784
+Sep  4 02:45:50 ns01 sshd[14126]: Disconnecting authenticating user root 185.199.108.57 port 32235: Too many authentication failures [preauth]
+Sep  4 01:10:39 web01 sshd[14187]: Failed password for guest from 45.82.112.55 port 45141 ssh2
+Sep  4 03:15:17 storage01 sshd[14154]: Failed password for root from 45.82.112.187 port 43118 ssh2
+Sep  5 03:25:10 ns01 sshd[14299]: Failed password for oracle from 45.82.112.156 port 48758 ssh2
+Sep  6 23:55:30 app01 sshd[14335]: Invalid user pi from 185.199.108.115 port 37215
+Sep  4 01:10:35 web01 sshd[14183]: Failed password for test from 45.82.112.55 port 45141 ssh2
+Sep  5 21:47:57 storage01 sshd[14309]: Failed password for guest from 198.51.100.158 port 43306 ssh2
+Sep  4 05:29:29 bastion01 sshd[14056]: Failed password for ubuntu from 185.199.108.187 port 40021 ssh2
+Sep  6 03:55:11 web01 sshd[14458]: Failed password for ubuntu from 51.15.23.223 port 48085 ssh2
+Sep  4 01:10:40 web01 sshd[14188]: Invalid user pi from 45.82.112.55 port 45141
+Sep  4 05:29:25 bastion01 sshd[14052]: Failed password for root from 185.199.108.187 port 40021 ssh2
+Sep  5 03:25:01 ns01 sshd[14290]: Invalid user test from 45.82.112.156 port 48758
+Sep  5 07:01:52 lb01 sshd[14271]: Invalid user ubuntu from 192.0.2.79 port 39457
+Sep  4 16:58:06 db01 sshd[14095]: Invalid user root from 185.199.108.196 port 37854
+Sep  4 23:29:42 app02 sshd[14022]: Invalid user guest from 185.199.108.68 port 33423
+Sep  4 05:23:22 bastion01 sshd[14035]: Invalid user guest from 51.15.23.214 port 43954
+Sep  4 03:42:32 storage01 sshd[14134]: Failed password for guest from 45.82.112.49 port 35090 ssh2
+Sep  5 13:53:17 ci01 sshd[14228]: Invalid user pi from 203.0.113.73 port 52784
+Sep  5 19:05:27 app02 sshd[14204]: Failed password for admin from 185.199.108.153 port 33302 ssh2
+Sep  5 07:01:51 lb01 sshd[14270]: Failed password for ubuntu from 192.0.2.79 port 39457 ssh2
+Sep  5 10:01:14 lb01 sshd[14284]: Failed password for admin from 45.82.112.174 port 49570 ssh2
+Sep  6 22:02:03 app02 sshd[14363]: Invalid user admin from 45.82.112.232 port 51139
+Sep  4 23:29:43 app02 sshd[14023]: Failed password for guest from 185.199.108.68 port 33423 ssh2
+Sep  5 01:35:19 web01 sshd[14333]: Connection closed by 51.15.23.133 port 47222 [preauth]
+Sep  6 17:47:49 app02 sshd[14368]: Invalid user test from 45.82.112.219 port 45730
+Sep  6 17:05:08 app01 sshd[14354]: Failed password for pi from 198.51.100.60 port 52739 ssh2
+Sep  5 13:01:21 db01 sshd[14258]: Connection closed by 198.51.100.250 port 37801 [preauth]
+Sep  6 00:54:26 lb01 sshd[14410]: Failed password for pi from 45.82.112.28 port 41868 ssh2
+Sep  6 17:48:05 app02 sshd[14384]: Invalid user guest from 45.82.112.219 port 45730
+Sep  5 07:01:55 lb01 sshd[14274]: Failed password for guest from 192.0.2.79 port 39457 ssh2
+Sep  4 23:17:55 app01 sudo: pam_unix(sudo:session): session closed for user root
+Sep  4 05:29:30 bastion01 sshd[14057]: Invalid user pi from 185.199.108.187 port 40021
+Sep  6 10:07:49 vpn01 sshd[14435]: Invalid user root from 203.0.113.234 port 38310
+Sep  4 23:21:15 app01 sshd[14006]: pam_unix(sshd:session): session closed for user alice
+Sep  6 17:47:53 app02 sshd[14372]: Invalid user ubuntu from 45.82.112.219 port 45730
+Sep  4 15:09:14 web01 sshd[14194]: Invalid user guest from 185.199.108.170 port 55540
+Sep  4 12:30:00 app02 CRON[14013]: (root) CMD (/usr/local/bin/backup.sh)
+Sep  6 15:29:37 ns01 sshd[14418]: Connection closed by 185.199.108.207 port 49634 [preauth]
+Sep  6 17:47:48 app02 sshd[14367]: Failed password for root from 45.82.112.219 port 45730 ssh2
+Sep  5 01:37:30 app01 sshd[14200]: Accepted publickey for deploy from 198.51.100.42 port 56640 ssh2: RSA SHA256:Z5Qb... (comment)
+Sep  4 03:42:31 storage01 sshd[14133]: Invalid user guest from 45.82.112.49 port 35090
+Sep  6 23:55:39 app01 sshd[14344]: Failed password for pi from 185.199.108.115 port 37215 ssh2
+Sep  5 01:40:30 app01 sshd[14202]: pam_unix(sshd:session): session closed for user deploy
+Sep  6 22:02:07 app02 sshd[14365]: Connection closed by 45.82.112.232 port 51139 [preauth]
+Sep  4 01:55:07 ci01 sshd[14080]: Invalid user pi from 185.199.108.127 port 34978
+Sep  4 23:29:45 app02 sshd[14025]: Failed password for oracle from 185.199.108.68 port 33423 ssh2
+Sep  4 15:09:12 web01 sshd[14192]: Invalid user oracle from 185.199.108.170 port 55540
+Sep  4 23:29:49 app02 sshd[14029]: Failed password for ubuntu from 185.199.108.68 port 33423 ssh2
+Sep  5 03:56:08 bastion01 sshd[14221]: Failed password for admin from 192.0.2.30 port 54327 ssh2
+Sep  4 03:42:44 storage01 sshd[14146]: Failed password for admin from 45.82.112.49 port 35090 ssh2
+Sep  4 23:29:50 app02 sshd[14030]: Invalid user oracle from 185.199.108.68 port 33423
+Sep  4 16:28:07 ns01 sshd[14110]: Accepted publickey for alice from 198.51.100.42 port 42098 ssh2: RSA SHA256:Z5Qb... (comment)
+Sep  4 03:15:14 storage01 sshd[14151]: Invalid user test from 45.82.112.187 port 43118
+Sep  6 17:33:22 storage01 sshd[14432]: Failed password for guest from 45.82.112.191 port 41528 ssh2
+Sep  6 03:55:04 web01 sshd[14451]: Invalid user ubuntu from 51.15.23.223 port 48085
+Sep  4 03:42:30 storage01 sshd[14132]: Failed password for pi from 45.82.112.49 port 35090 ssh2
+Sep  4 01:01:05 app01 sshd[14007]: Failed password for admin from 198.51.100.60 port 48390 ssh2
+Sep  6 23:55:43 app01 sshd[14347]: error: maximum authentication attempts exceeded for root from 185.199.108.115 port 37215 ssh2 [preauth]
+Sep  4 16:58:13 db01 sshd[14100]: Failed password for root from 185.199.108.196 port 37854 ssh2
+Sep  4 01:55:15 ci01 sshd[14088]: Invalid user admin from 185.199.108.127 port 34978
+Sep  4 03:15:27 storage01 sshd[14164]: Failed password for admin from 45.82.112.187 port 43118 ssh2
+Sep  6 17:48:09 app02 sshd[14388]: Invalid user pi from 45.82.112.219 port 45730
+Sep  5 07:01:44 lb01 sshd[14263]: Invalid user pi from 192.0.2.79 port 39457
+Sep  5 07:01:50 lb01 sshd[14269]: Invalid user ubuntu from 192.0.2.79 port 39457
+Sep  4 03:42:29 storage01 sshd[14131]: Invalid user pi from 45.82.112.49 port 35090
+Sep  6 17:47:51 app02 sshd[14370]: Invalid user root from 45.82.112.219 port 45730
+Sep  6 06:05:28 storage01 sshd[14429]: Connection closed by 185.199.108.3 port 48928 [preauth]
+Sep  4 03:42:42 storage01 sshd[14144]: Failed password for admin from 45.82.112.49 port 35090 ssh2
+Sep  5 07:01:56 lb01 sshd[14275]: Invalid user oracle from 192.0.2.79 port 39457
+Sep  6 08:28:05 app01 sshd[14350]: Failed password for admin from 45.82.112.161 port 39839 ssh2
+Sep  4 01:10:34 web01 sshd[14182]: Invalid user test from 45.82.112.55 port 45141
+Sep  4 01:10:41 web01 sshd[14189]: Failed password for pi from 45.82.112.55 port 45141 ssh2
+Sep  6 03:55:17 web01 sshd[14464]: Failed password for admin from 51.15.23.223 port 48085 ssh2
+Sep  5 04:41:53 web01 sshd[14329]: error: maximum authentication attempts exceeded for root from 45.82.112.103 port 39994 ssh2 [preauth]
+Sep  5 17:00:07 ci01 sshd[14246]: Failed password for root from 203.0.113.226 port 47877 ssh2
+Sep  6 17:48:07 app02 sshd[14386]: Invalid user guest from 45.82.112.219 port 45730
+Sep  5 15:50:57 vpn01 sshd[14312]: Accepted publickey for deploy from 198.51.100.42 port 49299 ssh2: RSA SHA256:Z5Qb... (comment)
+Sep  4 02:45:47 ns01 sshd[14124]: Failed password for admin from 185.199.108.57 port 32235 ssh2
+Sep  5 13:53:19 ci01 sshd[14230]: Invalid user root from 203.0.113.73 port 52784
+Sep  6 22:15:19 storage01 sshd[14431]: Failed password for guest from 51.15.23.149 port 45507 ssh2
+Sep  6 03:55:14 web01 sshd[14461]: Invalid user test from 51.15.23.223 port 48085
+Sep  5 07:01:48 lb01 sshd[14267]: Invalid user pi from 192.0.2.79 port 39457
+Sep  4 05:29:38 bastion01 sshd[14065]: Invalid user root from 185.199.108.187 port 40021
+Sep  6 06:05:24 storage01 sshd[14427]: Invalid user admin from 185.199.108.3 port 48928
+Sep  4 01:10:24 web01 sshd[14172]: Invalid user ubuntu from 45.82.112.55 port 45141
+Sep  6 06:05:15 storage01 sshd[14421]: Invalid user root from 185.199.108.3 port 48928
+Sep  4 01:10:26 web01 sshd[14174]: Invalid user pi from 45.82.112.55 port 45141
+Sep  5 04:41:48 web01 sshd[14325]: Invalid user root from 45.82.112.103 port 39994
+Sep  4 05:23:28 bastion01 sshd[14041]: Invalid user admin from 51.15.23.214 port 43954
+Sep  6 23:55:35 app01 sshd[14340]: Failed password for ubuntu from 185.199.108.115 port 37215 ssh2
+Sep  5 04:41:47 web01 sshd[14324]: Failed password for test from 45.82.112.103 port 39994 ssh2
+Sep  6 12:30:00 bastion01 CRON[14401]: (root) CMD (/usr/local/bin/backup.sh)
+Sep  4 23:17:35 app01 sudo:     alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/apt-get update
+Sep  5 13:53:32 ci01 sshd[14243]: Failed password for oracle from 203.0.113.73 port 52784 ssh2
+Sep  6 17:47:56 app02 sshd[14375]: Failed password for test from 45.82.112.219 port 45730 ssh2
+Sep  4 05:29:39 bastion01 sshd[14066]: Failed password for root from 185.199.108.187 port 40021 ssh2
+Sep  6 22:12:04 ci01 sshd[14409]: Failed password for root from 185.199.108.177 port 33339 ssh2
+Sep  6 23:55:33 app01 sshd[14338]: Failed password for guest from 185.199.108.115 port 37215 ssh2
+Sep  6 23:55:31 app01 sshd[14336]: Failed password for pi from 185.199.108.115 port 37215 ssh2
+Sep  5 12:30:00 storage01 CRON[14303]: (root) CMD (/usr/local/bin/backup.sh)
+Sep  6 03:55:08 web01 sshd[14455]: Invalid user admin from 51.15.23.223 port 48085
+Sep  5 13:53:34 ci01 sshd[14244]: error: maximum authentication attempts exceeded for root from 203.0.113.73 port 52784 ssh2 [preauth]
+Sep  4 15:09:13 web01 sshd[14193]: Failed password for oracle from 185.199.108.170 port 55540 ssh2
+Sep  5 07:01:54 lb01 sshd[14273]: Invalid user guest from 192.0.2.79 port 39457
+Sep  4 05:23:32 bastion01 sshd[14045]: Invalid user guest from 51.15.23.214 port 43954
+Sep  6 03:55:09 web01 sshd[14456]: Failed password for admin from 51.15.23.223 port 48085 ssh2
+Sep  6 14:20:41 bastion01 sudo:     bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/usr/bin/apt-get update
+Sep  5 07:01:43 lb01 sshd[14262]: Failed password for ubuntu from 192.0.2.79 port 39457 ssh2
+Sep  5 13:53:27 ci01 sshd[14238]: Invalid user guest from 203.0.113.73 port 52784
+Sep  6 14:34:21 bastion01 sshd[14400]: pam_unix(sshd:session): session closed for user bob
+Sep  5 03:25:09 ns01 sshd[14298]: Invalid user oracle from 45.82.112.156 port 48758
+Sep  6 03:55:19 web01 sshd[14466]: Failed password for pi from 51.15.23.223 port 48085 ssh2
+Sep  4 16:28:07 ns01 sshd[14111]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Sep  4 16:58:07 db01 sshd[14096]: Failed password for root from 185.199.108.196 port 37854 ssh2
+Sep  4 12:38:29 ci01 sshd[14092]: Failed password for admin from 185.199.108.65 port 52291 ssh2
+Sep  4 20:31:25 bastion01 sshd[14076]: Failed password for root from 51.15.23.118 port 38679 ssh2
+Sep  5 03:25:08 ns01 sshd[14297]: Failed password for pi from 45.82.112.156 port 48758 ssh2
+Sep  4 01:55:11 ci01 sshd[14084]: Invalid user test from 185.199.108.127 port 34978
+Sep  6 03:55:06 web01 sshd[14453]: Invalid user root from 51.15.23.223 port 48085
+Sep  6 17:48:03 app02 sshd[14382]: Invalid user ubuntu from 45.82.112.219 port 45730
+Sep  5 08:10:50 db01 sshd[14259]: Failed password for pi from 51.15.23.28 port 58579 ssh2
+Sep  4 05:23:30 bastion01 sshd[14043]: Invalid user oracle from 51.15.23.214 port 43954
+Sep  4 16:28:47 ns01 sudo: pam_unix(sudo:session): session closed for user root
+Sep  5 03:25:02 ns01 sshd[14291]: Failed password for test from 45.82.112.156 port 48758 ssh2
+Sep  4 03:15:26 storage01 sshd[14163]: Invalid user admin from 45.82.112.187 port 43118
+Sep  5 11:56:07 bastion01 sshd[14215]: Invalid user oracle from 185.199.108.68 port 36340
+Sep  4 16:28:27 ns01 sudo:     alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/apt-get update
+Sep  4 23:29:44 app02 sshd[14024]: Invalid user oracle from 185.199.108.68 port 33423
+Sep  5 03:24:58 ns01 sshd[14287]: Failed password for admin from 45.82.112.156 port 48758 ssh2
+Sep  4 05:29:48 bastion01 sshd[14074]: Disconnecting authenticating user root 185.199.108.187 port 40021: Too many authentication failures [preauth]
+Sep  4 01:10:28 web01 sshd[14176]: Invalid user pi from 45.82.112.55 port 45141
+Sep  5 04:41:45 web01 sshd[14322]: Failed password for pi from 45.82.112.103 port 39994 ssh2
+Sep  5 10:01:17 lb01 sshd[14285]: Connection closed by 45.82.112.174 port 49570 [preauth]
+Sep  4 23:29:38 app02 sshd[14018]: Invalid user ubuntu from 185.199.108.68 port 33423
+Sep  4 03:15:22 storage01 sshd[14159]: Invalid user root from 45.82.112.187 port 43118
+Sep  5 01:53:23 ci01 sshd[14247]: Failed password for root from 185.199.108.142 port 44083 ssh2
+Sep  4 03:42:37 storage01 sshd[14139]: Invalid user guest from 45.82.112.49 port 35090
+Sep  5 07:01:57 lb01 sshd[14276]: Failed password for oracle from 192.0.2.79 port 39457 ssh2
+Sep  4 01:10:36 web01 sshd[14184]: Invalid user guest from 45.82.112.55 port 45141
+Sep  4 03:15:24 storage01 sshd[14161]: Invalid user pi from 45.82.112.187 port 43118
+Sep  5 13:53:25 ci01 sshd[14236]: Invalid user root from 203.0.113.73 port 52784
+Sep  6 15:29:31 ns01 sshd[14415]: Failed password for oracle from 185.199.108.207 port 49634 ssh2
+Sep  6 03:55:00 web01 sshd[14447]: Invalid user test from 51.15.23.223 port 48085
+Sep  4 01:10:25 web01 sshd[14173]: Failed password for ubuntu from 45.82.112.55 port 45141 ssh2
+Sep  5 11:56:14 bastion01 sshd[14219]: Connection closed by 185.199.108.68 port 36340 [preauth]
+Sep  6 08:28:07 app01 sshd[14351]: Invalid user admin from 45.82.112.161 port 39839
+Sep  5 09:38:53 ci01 sudo: pam_unix(sudo:session): session closed for user root
+Sep  6 14:20:21 bastion01 sshd[14396]: pam_unix(sshd:session): session opened for user bob by (uid=0)
+Sep  4 01:10:30 web01 sshd[14178]: Invalid user test from 45.82.112.55 port 45141
+Sep  5 03:25:05 ns01 sshd[14294]: Invalid user oracle from 45.82.112.156 port 48758
+Sep  4 01:55:14 ci01 sshd[14087]: Failed password for oracle from 185.199.108.127 port 34978 ssh2
+Sep  6 03:53:12 vpn01 sshd[14445]: Failed password for guest from 192.0.2.59 port 35879 ssh2
+Sep  5 01:37:30 app01 sshd[14201]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Sep  4 02:45:44 ns01 sshd[14121]: Invalid user ubuntu from 185.199.108.57 port 32235
+Sep  4 23:29:40 app02 sshd[14020]: Invalid user pi from 185.199.108.68 port 33423
+Sep  4 05:23:27 bastion01 sshd[14040]: Failed password for guest from 51.15.23.214 port 43954 ssh2
+Sep  4 03:15:31 storage01 sshd[14168]: Failed password for pi from 45.82.112.187 port 43118 ssh2
+Sep  6 17:48:04 app02 sshd[14383]: Failed password for ubuntu from 45.82.112.219 port 45730 ssh2
+Sep  6 17:48:08 app02 sshd[14387]: Failed password for guest from 45.82.112.219 port 45730 ssh2
+Sep  4 01:10:37 web01 sshd[14185]: Failed password for guest from 45.82.112.55 port 45141 ssh2
+Sep  4 23:17:35 app01 sudo: pam_unix(sudo:session): session opened for user root by alice(uid=0)
+Sep  5 07:42:06 db01 sshd[14250]: pam_unix(sshd:session): session opened for user svc_backup by (uid=0)
+Sep  4 03:42:33 storage01 sshd[14135]: Invalid user admin from 45.82.112.49 port 35090
+Sep  6 14:20:21 bastion01 sshd[14395]: Accepted publickey for bob from 203.0.113.9 port 64641 ssh2: RSA SHA256:Z5Qb... (comment)
+Sep  4 16:28:27 ns01 sudo: pam_unix(sudo:session): session opened for user root by alice(uid=0)
+Sep  5 11:56:10 bastion01 sshd[14217]: Invalid user admin from 185.199.108.68 port 36340
+Sep  4 23:29:46 app02 sshd[14026]: Invalid user pi from 185.199.108.68 port 33423
+Sep  6 17:48:06 app02 sshd[14385]: Failed password for guest from 45.82.112.219 port 45730 ssh2
+Sep  4 03:15:15 storage01 sshd[14152]: Failed password for test from 45.82.112.187 port 43118 ssh2
+Sep  6 11:10:42 ci01 sshd[14407]: Connection closed by 45.82.112.180 port 40396 [preauth]
+Sep  4 23:29:54 app02 sshd[14033]: Disconnecting authenticating user root 185.199.108.68 port 33423: Too many authentication failures [preauth]
+Sep  4 04:13:48 app02 sshd[14010]: Accepted publickey for deploy from 198.51.100.7 port 43039 ssh2: RSA SHA256:Z5Qb... (comment)
+Sep  4 08:42:31 ns01 sshd[14127]: Failed password for root from 198.51.100.139 port 53702 ssh2
+Sep  6 14:15:48 ns01 sshd[14419]: Failed password for pi from 45.82.112.146 port 41023 ssh2
+Sep  4 03:15:30 storage01 sshd[14167]: Invalid user pi from 45.82.112.187 port 43118
+Sep  5 04:41:54 web01 sshd[14330]: Disconnecting authenticating user root 45.82.112.103 port 39994: Too many authentication failures [preauth]
+Sep  5 19:05:26 app02 sshd[14203]: Invalid user admin from 185.199.108.153 port 33302
+Sep  4 03:15:34 storage01 sshd[14170]: Disconnecting authenticating user root 45.82.112.187 port 43118: Too many authentication failures [preauth]
+Sep  6 17:47:52 app02 sshd[14371]: Failed password for root from 45.82.112.219 port 45730 ssh2
+Sep  5 07:01:53 lb01 sshd[14272]: Failed password for ubuntu from 192.0.2.79 port 39457 ssh2
+Sep  5 19:05:33 app02 sshd[14208]: Failed password for root from 185.199.108.153 port 33302 ssh2
+Sep  4 01:10:33 web01 sshd[14181]: Failed password for ubuntu from 45.82.112.55 port 45141 ssh2
+Sep  4 02:45:45 ns01 sshd[14122]: Failed password for ubuntu from 185.199.108.57 port 32235 ssh2
+Sep  4 01:10:44 web01 sshd[14191]: Disconnecting authenticating user root 45.82.112.55 port 45141: Too many authentication failures [preauth]
+Sep  6 22:01:54 app02 sshd[14357]: Invalid user admin from 45.82.112.232 port 51139
+Sep  4 04:26:48 app02 sshd[14012]: pam_unix(sshd:session): session closed for user deploy
+Sep  4 07:56:40 lb01 sshd[14106]: Connection closed by 192.0.2.62 port 33898 [preauth]
+Sep  4 15:09:20 web01 sshd[14199]: Disconnecting authenticating user root 185.199.108.170 port 55540: Too many authentication failures [preauth]
+Sep  6 10:07:52 vpn01 sshd[14438]: Failed password for guest from 203.0.113.234 port 38310 ssh2
+Sep  5 21:19:21 vpn01 sshd[14319]: Connection closed by 203.0.113.242 port 39696 [preauth]
+Sep  4 16:58:12 db01 sshd[14099]: Invalid user root from 185.199.108.196 port 37854
+Sep  4 03:42:46 storage01 sshd[14147]: error: maximum authentication attempts exceeded for root from 45.82.112.49 port 35090 ssh2 [preauth]
+Sep  4 05:29:35 bastion01 sshd[14062]: Failed password for pi from 185.199.108.187 port 40021 ssh2
+Sep  6 23:55:32 app01 sshd[14337]: Invalid user guest from 185.199.108.115 port 37215
+Sep  4 05:23:37 bastion01 sshd[14049]: error: maximum authentication attempts exceeded for root from 51.15.23.214 port 43954 ssh2 [preauth]
+Sep  5 09:38:13 ci01 sshd[14223]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Sep  6 14:50:01 storage01 sshd[14430]: Failed password for root from 203.0.113.125 port 43251 ssh2
+Sep  5 13:53:28 ci01 sshd[14239]: Failed password for guest from 203.0.113.73 port 52784 ssh2
+Sep  4 02:45:40 ns01 sshd[14117]: Invalid user admin from 185.199.108.57 port 32235
+Sep  6 03:55:03 web01 sshd[14450]: Failed password for test from 51.15.23.223 port 48085 ssh2
+Sep  5 10:01:08 lb01 sshd[14280]: Failed password for oracle from 45.82.112.174 port 49570 ssh2
+Sep  4 15:09:16 web01 sshd[14196]: Invalid user oracle from 185.199.108.170 port 55540
+Sep  6 10:07:59 vpn01 sshd[14444]: Disconnecting authenticating user root 203.0.113.234 port 38310: Too many authentication failures [preauth]
+Sep  4 01:55:13 ci01 sshd[14086]: Invalid user oracle from 185.199.108.127 port 34978
+Sep  4 01:10:29 web01 sshd[14177]: Failed password for pi from 45.82.112.55 port 45141 ssh2
+Sep  5 21:19:14 vpn01 sshd[14315]: Invalid user oracle from 203.0.113.242 port 39696
+Sep  5 13:53:18 ci01 sshd[14229]: Failed password for pi from 203.0.113.73 port 52784 ssh2
+Sep  6 17:48:12 app02 sshd[14390]: error: maximum authentication attempts exceeded for root from 45.82.112.219 port 45730 ssh2 [preauth]
+Sep  5 07:47:06 db01 sshd[14251]: pam_unix(sshd:session): session closed for user svc_backup
+Sep  6 10:07:54 vpn01 sshd[14440]: Failed password for test from 203.0.113.234 port 38310 ssh2
+Sep  6 11:10:39 ci01 sshd[14406]: Failed password for oracle from 45.82.112.180 port 40396 ssh2
+Sep  6 15:29:34 ns01 sshd[14417]: Failed password for oracle from 185.199.108.207 port 49634 ssh2
+Sep  5 13:20:25 storage01 sshd[14304]: Invalid user oracle from 185.199.108.80 port 53852
+Sep  5 12:30:00 lb01 CRON[14260]: (root) CMD (/usr/local/bin/backup.sh)
+Sep  4 01:10:27 web01 sshd[14175]: Failed password for pi from 45.82.112.55 port 45141 ssh2
+Sep  6 17:01:58 app02 sshd[14393]: Failed password for admin from 45.82.112.152 port 32750 ssh2
+Sep  4 03:42:40 storage01 sshd[14142]: Failed password for guest from 45.82.112.49 port 35090 ssh2
+Sep  4 05:23:23 bastion01 sshd[14036]: Failed password for guest from 51.15.23.214 port 43954 ssh2
+Sep  4 05:29:43 bastion01 sshd[14070]: Failed password for admin from 185.199.108.187 port 40021 ssh2
+Sep  5 10:01:10 lb01 sshd[14281]: Invalid user root from 45.82.112.174 port 49570
+Sep  4 16:58:10 db01 sshd[14098]: Failed password for root from 185.199.108.196 port 37854 ssh2
+Sep  4 15:09:17 web01 sshd[14197]: Failed password for oracle from 185.199.108.170 port 55540 ssh2
+Sep  4 12:17:04 bastion01 sshd[14075]: Failed password for guest from 198.51.100.234 port 36967 ssh2
+Sep  5 13:53:23 ci01 sshd[14234]: Invalid user ubuntu from 203.0.113.73 port 52784
+Sep  4 02:45:49 ns01 sshd[14125]: error: maximum authentication attempts exceeded for root from 185.199.108.57 port 32235 ssh2 [preauth]
+Sep  5 13:53:31 ci01 sshd[14242]: Invalid user oracle from 203.0.113.73 port 52784
+Sep  5 04:02:19 ci01 sshd[14248]: Failed password for admin from 192.0.2.231 port 59455 ssh2
+Sep  5 11:56:04 bastion01 sshd[14213]: Invalid user admin from 185.199.108.68 port 36340
+Sep  6 17:47:54 app02 sshd[14373]: Failed password for ubuntu from 45.82.112.219 port 45730 ssh2
+Sep  5 07:01:42 lb01 sshd[14261]: Invalid user ubuntu from 192.0.2.79 port 39457
+Sep  6 20:57:53 lb01 sshd[14411]: Failed password for root from 45.82.112.182 port 44270 ssh2
+Sep  5 13:20:32 storage01 sshd[14308]: Connection closed by 185.199.108.80 port 53852 [preauth]
+Sep  4 17:42:16 ci01 sshd[14079]: pam_unix(sshd:session): session closed for user svc_backup
+Sep  6 03:55:07 web01 sshd[14454]: Failed password for root from 51.15.23.223 port 48085 ssh2
+Sep  5 16:07:57 vpn01 sshd[14314]: pam_unix(sshd:session): session closed for user deploy
+Sep  6 20:27:08 app02 sshd[14394]: Failed password for admin from 45.82.112.47 port 38524 ssh2
+Sep  6 03:55:05 web01 sshd[14452]: Failed password for ubuntu from 51.15.23.223 port 48085 ssh2
+Sep  4 05:23:35 bastion01 sshd[14048]: Failed password for root from 51.15.23.214 port 43954 ssh2
+Sep  5 19:05:36 app02 sshd[14209]: Connection closed by 185.199.108.153 port 33302 [preauth]
+Sep  5 03:25:04 ns01 sshd[14293]: Failed password for admin from 45.82.112.156 port 48758 ssh2
+Sep  4 06:45:41 app01 sshd[14008]: Failed password for pi from 51.15.23.140 port 37223 ssh2
+Sep  6 00:31:54 ns01 sshd[14420]: Failed password for pi from 192.0.2.47 port 36950 ssh2
+Sep  4 03:15:23 storage01 sshd[14160]: Failed password for root from 45.82.112.187 port 43118 ssh2
+Sep  4 01:55:09 ci01 sshd[14082]: Invalid user guest from 185.199.108.127 port 34978
+Sep  6 06:05:16 storage01 sshd[14422]: Failed password for root from 185.199.108.3 port 48928 ssh2
+Sep  4 23:29:35 app02 sshd[14015]: Failed password for admin from 185.199.108.68 port 33423 ssh2
+Sep  4 05:29:36 bastion01 sshd[14063]: Invalid user admin from 185.199.108.187 port 40021
+Sep  5 07:42:06 db01 sshd[14249]: Accepted publickey for svc_backup from 198.51.100.7 port 60337 ssh2: RSA SHA256:Z5Qb... (comment)
+Sep  6 17:47:50 app02 sshd[14369]: Failed password for test from 45.82.112.219 port 45730 ssh2
+Sep  5 04:41:51 web01 sshd[14328]: Failed password for root from 45.82.112.103 port 39994 ssh2
+Sep  4 05:29:41 bastion01 sshd[14068]: Failed password for pi from 185.199.108.187 port 40021 ssh2
+Sep  6 23:55:36 app01 sshd[14341]: Invalid user pi from 185.199.108.115 port 37215
+Sep  6 17:48:10 app02 sshd[14389]: Failed password for pi from 45.82.112.219 port 45730 ssh2
+Sep  4 07:56:37 lb01 sshd[14105]: Failed password for root from 192.0.2.62 port 33898 ssh2
+Sep  4 23:29:47 app02 sshd[14027]: Failed password for pi from 185.199.108.68 port 33423 ssh2
+Sep  6 22:01:55 app02 sshd[14358]: Failed password for admin from 45.82.112.232 port 51139 ssh2
+Sep  5 13:01:17 db01 sshd[14256]: Invalid user root from 198.51.100.250 port 37801
+Sep  4 01:10:38 web01 sshd[14186]: Invalid user guest from 45.82.112.55 port 45141
+Sep  6 23:55:44 app01 sshd[14348]: Disconnecting authenticating user root 185.199.108.115 port 37215: Too many authentication failures [preauth]
+Sep  4 16:58:09 db01 sshd[14097]: Invalid user root from 185.199.108.196 port 37854
+Sep  6 03:55:15 web01 sshd[14462]: Failed password for test from 51.15.23.223 port 48085 ssh2
+Sep  5 12:30:00 bastion01 CRON[14212]: (root) CMD (/usr/local/bin/backup.sh)
+Sep  5 13:53:26 ci01 sshd[14237]: Failed password for root from 203.0.113.73 port 52784 ssh2
+Sep  5 07:02:00 lb01 sshd[14278]: Disconnecting authenticating user root 192.0.2.79 port 39457: Too many authentication failures [preauth]
+Sep  4 23:17:15 app01 sshd[14001]: Accepted publickey for alice from 198.51.100.42 port 64132 ssh2: RSA SHA256:Z5Qb... (comment)
+Sep  5 07:01:45 lb01 sshd[14264]: Failed password for pi from 192.0.2.79 port 39457 ssh2
+Sep  6 17:47:55 app02 sshd[14374]: Invalid user test from 45.82.112.219 port 45730
+Sep  4 05:29:33 bastion01 sshd[14060]: Failed password for pi from 185.199.108.187 port 40021 ssh2
+Sep  6 22:02:04 app02 sshd[14364]: Failed password for admin from 45.82.112.232 port 51139 ssh2
+Sep  4 03:42:28 storage01 sshd[14130]: Failed password for test from 45.82.112.49 port 35090 ssh2
+Sep  4 03:15:25 storage01 sshd[14162]: Failed password for pi from 45.82.112.187 port 43118 ssh2
+Sep  4 05:23:33 bastion01 sshd[14046]: Failed password for guest from 51.15.23.214 port 43954 ssh2
+Sep  6 06:53:01 bastion01 sshd[14404]: Failed password for root from 185.199.108.40 port 34136 ssh2
+Sep  4 23:29:39 app02 sshd[14019]: Failed password for ubuntu from 185.199.108.68 port 33423 ssh2
+Sep  5 10:01:11 lb01 sshd[14282]: Failed password for root from 45.82.112.174 port 49570 ssh2
+Sep  6 03:55:22 web01 sshd[14468]: Disconnecting authenticating user root 51.15.23.223 port 48085: Too many authentication failures [preauth]
+Sep  6 17:48:02 app02 sshd[14381]: Failed password for test from 45.82.112.219 port 45730 ssh2
+Sep  5 13:01:14 db01 sshd[14254]: Invalid user root from 198.51.100.250 port 37801
+Sep  5 10:59:48 app02 sshd[14211]: Failed password for pi from 203.0.113.52 port 50354 ssh2
+Sep  4 03:15:33 storage01 sshd[14169]: error: maximum authentication attempts exceeded for root from 45.82.112.187 port 43118 ssh2 [preauth]
+Sep  4 01:55:10 ci01 sshd[14083]: Failed password for guest from 185.199.108.127 port 34978 ssh2
+Sep  4 05:29:27 bastion01 sshd[14054]: Failed password for guest from 185.199.108.187 port 40021 ssh2
+Sep  4 03:15:28 storage01 sshd[14165]: Invalid user test from 45.82.112.187 port 43118
+Sep  4 12:30:00 web01 CRON[14171]: (root) CMD (/usr/local/bin/backup.sh)
+Sep  6 03:55:12 web01 sshd[14459]: Invalid user pi from 51.15.23.223 port 48085
+Sep  4 01:10:31 web01 sshd[14179]: Failed password for test from 45.82.112.55 port 45141 ssh2
+Sep  6 08:28:04 app01 sshd[14349]: Invalid user admin from 45.82.112.161 port 39839
+Sep  6 03:55:01 web01 sshd[14448]: Failed password for test from 51.15.23.223 port 48085 ssh2
+Sep  6 03:55:21 web01 sshd[14467]: error: maximum authentication attempts exceeded for root from 51.15.23.223 port 48085 ssh2 [preauth]
+Sep  5 04:41:49 web01 sshd[14326]: Failed password for root from 45.82.112.103 port 39994 ssh2
+Sep  5 09:38:33 ci01 sudo:     alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/apt-get update
+Sep  5 03:25:12 ns01 sshd[14300]: error: maximum authentication attempts exceeded for root from 45.82.112.156 port 48758 ssh2 [preauth]
+Sep  4 23:07:43 ci01 sshd[14093]: Failed password for guest from 185.199.108.193 port 55185 ssh2
+Sep  4 03:42:41 storage01 sshd[14143]: Invalid user admin from 45.82.112.49 port 35090
+Sep  6 10:07:55 vpn01 sshd[14441]: Invalid user ubuntu from 203.0.113.234 port 38310
+Sep  5 14:42:33 web01 sshd[14334]: Failed password for guest from 185.199.108.153 port 54748 ssh2
+Sep  5 07:01:47 lb01 sshd[14266]: Failed password for admin from 192.0.2.79 port 39457 ssh2
+Sep  6 15:29:27 ns01 sshd[14412]: Invalid user admin from 185.199.108.207 port 49634
+Sep  4 01:55:18 ci01 sshd[14090]: error: maximum authentication attempts exceeded for root from 185.199.108.127 port 34978 ssh2 [preauth]
+Sep  6 17:47:47 app02 sshd[14366]: Invalid user root from 45.82.112.219 port 45730
+Sep  6 03:55:18 web01 sshd[14465]: Invalid user pi from 51.15.23.223 port 48085
+Sep  4 03:42:36 storage01 sshd[14138]: Failed password for guest from 45.82.112.49 port 35090 ssh2
+Sep  6 23:55:40 app01 sshd[14345]: Invalid user oracle from 185.199.108.115 port 37215
+Sep  4 04:13:48 app02 sshd[14011]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Sep  5 03:25:13 ns01 sshd[14301]: Disconnecting authenticating user root 45.82.112.156 port 48758: Too many authentication failures [preauth]
+Sep  5 03:25:06 ns01 sshd[14295]: Failed password for oracle from 45.82.112.156 port 48758 ssh2
+Sep  6 23:55:41 app01 sshd[14346]: Failed password for oracle from 185.199.108.115 port 37215 ssh2
+Sep  4 02:45:41 ns01 sshd[14118]: Failed password for admin from 185.199.108.57 port 32235 ssh2
+Sep  4 05:23:34 bastion01 sshd[14047]: Invalid user root from 51.15.23.214 port 43954
+Sep  4 23:29:34 app02 sshd[14014]: Invalid user admin from 185.199.108.68 port 33423
+Sep  4 03:42:27 storage01 sshd[14129]: Invalid user test from 45.82.112.49 port 35090
+Sep  5 17:53:00 storage01 sshd[14310]: Failed password for root from 192.0.2.74 port 44086 ssh2
+Sep  4 03:15:29 storage01 sshd[14166]: Failed password for test from 45.82.112.187 port 43118 ssh2
+Sep  5 09:38:13 ci01 sshd[14222]: Accepted publickey for alice from 198.51.100.7 port 62527 ssh2: RSA SHA256:Z5Qb... (comment)
+Sep  4 23:29:41 app02 sshd[14021]: Failed password for pi from 185.199.108.68 port 33423 ssh2
+Sep  5 13:20:29 storage01 sshd[14307]: Failed password for admin from 185.199.108.80 port 53852 ssh2
+Sep  6 06:05:19 storage01 sshd[14424]: Failed password for oracle from 185.199.108.3 port 48928 ssh2
+Sep  6 17:48:01 app02 sshd[14380]: Invalid user test from 45.82.112.219 port 45730
+Sep  5 13:01:12 db01 sshd[14253]: Failed password for admin from 198.51.100.250 port 37801 ssh2
+Sep  5 07:01:59 lb01 sshd[14277]: error: maximum authentication attempts exceeded for root from 192.0.2.79 port 39457 ssh2 [preauth]
+Sep  5 13:01:18 db01 sshd[14257]: Failed password for root from 198.51.100.250 port 37801 ssh2
+Sep  4 03:42:38 storage01 sshd[14140]: Failed password for guest from 45.82.112.49 port 35090 ssh2
+Sep  5 19:05:32 app02 sshd[14207]: Invalid user root from 185.199.108.153 port 33302
+Sep  6 22:01:57 app02 sshd[14359]: Invalid user oracle from 45.82.112.232 port 51139
+Sep  6 03:55:10 web01 sshd[14457]: Invalid user ubuntu from 51.15.23.223 port 48085
+Sep  6 15:29:30 ns01 sshd[14414]: Invalid user oracle from 185.199.108.207 port 49634
+Sep  5 13:53:29 ci01 sshd[14240]: Invalid user test from 203.0.113.73 port 52784
+Sep  4 05:29:37 bastion01 sshd[14064]: Failed password for admin from 185.199.108.187 port 40021 ssh2
+Sep  5 09:38:33 ci01 sudo: pam_unix(sudo:session): session opened for user root by alice(uid=0)
+Sep  6 03:37:01 ci01 sshd[14408]: Failed password for pi from 192.0.2.148 port 42997 ssh2
+Sep  6 10:07:50 vpn01 sshd[14436]: Failed password for root from 203.0.113.234 port 38310 ssh2
+Sep  6 15:29:28 ns01 sshd[14413]: Failed password for admin from 185.199.108.207 port 49634 ssh2
+Sep  4 03:15:21 storage01 sshd[14158]: Failed password for test from 45.82.112.187 port 43118 ssh2
+Sep  4 01:55:12 ci01 sshd[14085]: Failed password for test from 185.199.108.127 port 34978 ssh2
+Sep  6 10:07:48 vpn01 sshd[14434]: Failed password for root from 203.0.113.234 port 38310 ssh2
+Sep  6 02:49:41 bastion01 sshd[14403]: Failed password for admin from 203.0.113.243 port 38102 ssh2
+Sep  4 05:29:47 bastion01 sshd[14073]: error: maximum authentication attempts exceeded for root from 185.199.108.187 port 40021 ssh2 [preauth]
+Sep  4 03:42:35 storage01 sshd[14137]: Invalid user guest from 45.82.112.49 port 35090
+Sep  6 03:55:13 web01 sshd[14460]: Failed password for pi from 51.15.23.223 port 48085 ssh2
+Sep  5 01:35:16 web01 sshd[14332]: Failed password for admin from 51.15.23.133 port 47222 ssh2
+Sep  6 09:00:45 vpn01 sshd[14446]: Failed password for guest from 185.199.108.33 port 31491 ssh2
+Sep  5 10:01:07 lb01 sshd[14279]: Invalid user oracle from 45.82.112.174 port 49570
+Sep  4 05:29:32 bastion01 sshd[14059]: Invalid user pi from 185.199.108.187 port 40021
+Sep  5 11:56:11 bastion01 sshd[14218]: Failed password for admin from 185.199.108.68 port 36340 ssh2
+Sep  4 04:23:48 db01 sshd[14102]: Failed password for admin from 198.51.100.139 port 49626 ssh2
+Sep  6 06:05:21 storage01 sshd[14425]: Invalid user root from 185.199.108.3 port 48928
+Sep  6 10:07:53 vpn01 sshd[14439]: Invalid user test from 203.0.113.234 port 38310
+Sep  6 06:05:25 storage01 sshd[14428]: Failed password for admin from 185.199.108.3 port 48928 ssh2
+Sep  6 06:05:22 storage01 sshd[14426]: Failed password for root from 185.199.108.3 port 48928 ssh2
+Sep  4 02:45:43 ns01 sshd[14120]: Failed password for pi from 185.199.108.57 port 32235 ssh2
+Sep  6 03:55:16 web01 sshd[14463]: Invalid user admin from 51.15.23.223 port 48085
+Sep  4 05:23:24 bastion01 sshd[14037]: Invalid user guest from 51.15.23.214 port 43954
+Sep  5 13:53:22 ci01 sshd[14233]: Failed password for guest from 203.0.113.73 port 52784 ssh2
+Sep  6 22:01:58 app02 sshd[14360]: Failed password for oracle from 45.82.112.232 port 51139 ssh2
+Sep  4 03:42:43 storage01 sshd[14145]: Invalid user admin from 45.82.112.49 port 35090
+Sep  6 22:02:01 app02 sshd[14362]: Failed password for admin from 45.82.112.232 port 51139 ssh2
+Sep  4 03:42:47 storage01 sshd[14148]: Disconnecting authenticating user root 45.82.112.49 port 35090: Too many authentication failures [preauth]
+Sep  4 02:45:42 ns01 sshd[14119]: Invalid user pi from 185.199.108.57 port 32235
+Sep  4 23:29:37 app02 sshd[14017]: Failed password for oracle from 185.199.108.68 port 33423 ssh2
+Sep  4 03:15:13 storage01 sshd[14150]: Failed password for root from 45.82.112.187 port 43118 ssh2
+Sep  5 13:53:30 ci01 sshd[14241]: Failed password for test from 203.0.113.73 port 52784 ssh2
+Sep  5 13:20:26 storage01 sshd[14305]: Failed password for oracle from 185.199.108.80 port 53852 ssh2
+Sep  6 08:28:11 app01 sshd[14353]: Connection closed by 45.82.112.161 port 39839 [preauth]
+Sep  6 10:07:56 vpn01 sshd[14442]: Failed password for ubuntu from 203.0.113.234 port 38310 ssh2
+Sep  5 07:16:25 app02 sshd[14210]: Failed password for guest from 198.51.100.172 port 44982 ssh2
+Sep  4 23:17:15 app01 sshd[14002]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Sep  6 06:05:18 storage01 sshd[14423]: Invalid user oracle from 185.199.108.3 port 48928
+Sep  4 05:23:26 bastion01 sshd[14039]: Invalid user guest from 51.15.23.214 port 43954
+Sep  5 10:01:13 lb01 sshd[14283]: Invalid user admin from 45.82.112.174 port 49570
+Sep  4 01:55:16 ci01 sshd[14089]: Failed password for admin from 185.199.108.127 port 34978 ssh2
+Sep  4 02:45:46 ns01 sshd[14123]: Invalid user admin from 185.199.108.57 port 32235
+Sep  4 01:55:08 ci01 sshd[14081]: Failed password for pi from 185.199.108.127 port 34978 ssh2
+Sep  4 05:23:29 bastion01 sshd[14042]: Failed password for admin from 51.15.23.214 port 43954 ssh2
+Sep  6 23:55:34 app01 sshd[14339]: Invalid user ubuntu from 185.199.108.115 port 37215
+Sep  4 03:42:34 storage01 sshd[14136]: Failed password for admin from 45.82.112.49 port 35090 ssh2
+Sep  4 23:44:12 lb01 sshd[14109]: Failed password for pi from 51.15.23.80 port 52009 ssh2
+Sep  5 04:41:44 web01 sshd[14321]: Invalid user pi from 45.82.112.103 port 39994
+Sep  4 02:48:34 lb01 sshd[14107]: Failed password for pi from 198.51.100.33 port 48015 ssh2
+Sep  6 17:48:13 app02 sshd[14391]: Disconnecting authenticating user root 45.82.112.219 port 45730: Too many authentication failures [preauth]
+Sep  4 05:29:24 bastion01 sshd[14051]: Invalid user root from 185.199.108.187 port 40021
+Sep  6 17:48:00 app02 sshd[14379]: Failed password for admin from 45.82.112.219 port 45730 ssh2
+Sep  5 15:50:57 vpn01 sshd[14313]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Sep  4 23:29:51 app02 sshd[14031]: Failed password for oracle from 185.199.108.68 port 33423 ssh2
+Sep  5 21:19:18 vpn01 sshd[14318]: Failed password for oracle from 203.0.113.242 port 39696 ssh2
+Sep  5 03:25:03 ns01 sshd[14292]: Invalid user admin from 45.82.112.156 port 48758
+Sep  4 03:15:20 storage01 sshd[14157]: Invalid user test from 45.82.112.187 port 43118
+Sep  5 19:51:41 bastion01 sshd[14220]: Failed password for guest from 185.199.108.3 port 51737 ssh2
+Sep  5 11:27:04 ns01 sshd[14302]: Failed password for guest from 51.15.23.236 port 50419 ssh2
+Sep  4 03:15:16 storage01 sshd[14153]: Invalid user root from 45.82.112.187 port 43118
+Sep  5 09:47:13 ci01 sshd[14227]: pam_unix(sshd:session): session closed for user alice
+Sep  5 13:53:20 ci01 sshd[14231]: Failed password for root from 203.0.113.73 port 52784 ssh2
+Sep  4 15:09:15 web01 sshd[14195]: Failed password for guest from 185.199.108.170 port 55540 ssh2
+Sep  5 07:01:49 lb01 sshd[14268]: Failed password for pi from 192.0.2.79 port 39457 ssh2
+Sep  6 14:20:41 bastion01 sudo: pam_unix(sudo:session): session opened for user root by bob(uid=0)
+Sep  4 12:30:00 ns01 CRON[14116]: (root) CMD (/usr/local/bin/backup.sh)
+Sep  5 21:19:17 vpn01 sshd[14317]: Invalid user oracle from 203.0.113.242 port 39696
+Sep  6 11:10:38 ci01 sshd[14405]: Invalid user oracle from 45.82.112.180 port 40396
+Sep  5 13:20:28 storage01 sshd[14306]: Invalid user admin from 185.199.108.80 port 53852
+Sep  5 18:38:41 storage01 sshd[14311]: Failed password for pi from 192.0.2.120 port 44488 ssh2
+Sep  5 11:56:05 bastion01 sshd[14214]: Failed password for admin from 185.199.108.68 port 36340 ssh2
+Sep  6 23:10:53 app02 sshd[14392]: Failed password for root from 45.82.112.236 port 50390 ssh2
+Sep  5 03:24:57 ns01 sshd[14286]: Invalid user admin from 45.82.112.156 port 48758
+Sep  4 05:29:34 bastion01 sshd[14061]: Invalid user pi from 185.199.108.187 port 40021
+Sep  4 12:30:00 storage01 CRON[14128]: (root) CMD (/usr/local/bin/backup.sh)
+Sep  4 05:23:31 bastion01 sshd[14044]: Failed password for oracle from 51.15.23.214 port 43954 ssh2
+Sep  4 03:15:19 storage01 sshd[14156]: Failed password for ubuntu from 45.82.112.187 port 43118 ssh2
+Sep  5 03:25:00 ns01 sshd[14289]: Failed password for guest from 45.82.112.156 port 48758 ssh2
+Sep  6 15:29:33 ns01 sshd[14416]: Invalid user oracle from 185.199.108.207 port 49634
+Sep  4 17:34:16 ci01 sshd[14077]: Accepted publickey for svc_backup from 203.0.113.9 port 51861 ssh2: RSA SHA256:Z5Qb... (comment)
+Sep  4 17:34:16 ci01 sshd[14078]: pam_unix(sshd:session): session opened for user svc_backup by (uid=0)
+Sep  4 23:29:48 app02 sshd[14028]: Invalid user ubuntu from 185.199.108.68 port 33423
+Sep  6 08:28:08 app01 sshd[14352]: Failed password for admin from 45.82.112.161 port 39839 ssh2
+Sep  5 04:41:46 web01 sshd[14323]: Invalid user test from 45.82.112.103 port 39994
+Sep  5 03:25:07 ns01 sshd[14296]: Invalid user pi from 45.82.112.156 port 48758
+Sep  4 05:23:25 bastion01 sshd[14038]: Failed password for guest from 51.15.23.214 port 43954 ssh2
+Sep  5 13:01:11 db01 sshd[14252]: Invalid user admin from 198.51.100.250 port 37801
+Sep  5 19:05:30 app02 sshd[14206]: Failed password for oracle from 185.199.108.153 port 33302 ssh2
