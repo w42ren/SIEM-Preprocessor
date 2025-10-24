@@ -72,8 +72,8 @@ def cron_job(ts, host, pid, cmd):
     return f"{fmt_ts(ts)} {host} CRON[{pid}]: ({cmd['user']}) CMD ({cmd['cmd']})"
 
 # Build events across multiple days
-start_date = datetime.date(2025, 9, 4)
-days = 3  # Sep 4-6
+start_date = datetime.date(2025, 10, 5)
+days = 10  # Sep 4-6
 lines = []
 
 pid_counter = 14000
